@@ -19,4 +19,6 @@ This repo also includes code for outputting the results of the gesture recogniti
 * LED array Din is connected to a PWM pin on the Arduino
 * +5V supply to LED array
 
-As an additional note, the grounds for the TIA, Arduino, and LED array must all be connected
+As an additional note, the grounds for the TIA, Arduino, and LED array must all be connected.
+
+Worked with Josh Anderson () on this project.
